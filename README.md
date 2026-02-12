@@ -6,7 +6,7 @@ Pump Archive is the complete historical data layer for pump.fun token launches o
 
 When a token rugs, the website goes down, and the metadata vanishes — Pump Archive still has it all. Screenshots, full website archives, creator profiles, and on-chain data.
 
-**API:** `https://api.pumparchive.com/v1`
+**API:** `https://api.pumparchive.com/`
 **Docs:** [pumparchive.com/docs](https://pumparchive.com/docs)
 **Twitter:** [@PumpArchive_X](https://x.com/PumpArchive_X)
 
